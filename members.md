@@ -69,6 +69,12 @@
   </tr>
 
   <tr>
+    <td>Sunny Datko</td>
+    <td><img src = "photos/sunny.png"></td>
+    <td>Sometime I even know what I'm doing!</td>
+  </tr>
+
+  <tr>
   	<td> Beth Johnson</td>
     <td><img src = "photos/bhenryjohnson.jpg" width = "200px"></td>
     <td>I'm a new mom and aspiring front-end web developer. I love playing with my baby girl, music, and geeking out with code!</td>
