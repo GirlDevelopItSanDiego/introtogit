@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td> Alanna Burke</td>
-    <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
-    <td>I'm a web developer, I love animals and teaching people to code!</td>
+    <td> Marissa Hartman</td>
+    <td><img src = "flower.jpeg" width = "200px"></td>
+    <td>I am a student at Miramar College and am studying computer science.</td>
 
   </tr>
 
