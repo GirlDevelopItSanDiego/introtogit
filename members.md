@@ -22,6 +22,12 @@
   </tr>
 
 <tr>
+    <td> Andreea Trufasu</td>
+    <td><img src = "photos/barcelona_beach.jpg" width = "200px"></td>
+    <td>I'm a small business owner, and I love swimmming, traveling, my friends and family</td>
+  </tr>
+
+<tr>
     <td> Briana Reid</td>
     <td><img src = "12038643_440128786179893_2069974111594427203_o.jpg" width = "200px"></td>
     <td>I'm a college student who love my puppy Zoey, and is currently learning spanish. </td>
@@ -44,9 +50,8 @@
     <td> Alyssa Salindong</td>
     <td><img src = "Images/alyssa.jpg" width = "200px"></td>
     <td>I'm a recruiter at Qualcomm</td>
-
-
   </tr>
+
 <tr>
     <td> I'm Bulgan </td>
     <td><img src = "photos/love1.jpg" width = "200px"></td>
