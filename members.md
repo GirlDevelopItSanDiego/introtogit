@@ -75,9 +75,17 @@
   </tr>
 
   <tr>
+
+    <td> Veronica Morones</td>
+    <td><img src = "images/kitten-3.jpg" width = "200px"></td>
+    <td>I like kittens and running.</td>
+  </tr>
+
+  <tr>
   	<td> Beth Johnson</td>
     <td><img src = "photos/bhenryjohnson.jpg" width = "200px"></td>
     <td>I'm a new mom and aspiring front-end web developer. I love playing with my baby girl, music, and geeking out with code!</td>
+
   </tr>
 
   <tr>
