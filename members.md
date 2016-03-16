@@ -15,3 +15,15 @@
 
 
 </table>
+  
+<table>
+  <tr>
+    <td> Alyssa Salindong</td>
+    <td><img src = "Images/alyssa.jpg" width = "200px"></td>
+    <td>I'm a recruiter at Qualcomm</td>
+
+  </tr>
+
+
+
+</table>
