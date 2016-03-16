@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td> Alanna Burke</td>
-    <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
+    <td><img src = "photos/courtney.jpg" width = "200px"></td>
     <td>Hey I'm courtney, this is my first git class!</td>
 
   </tr>
