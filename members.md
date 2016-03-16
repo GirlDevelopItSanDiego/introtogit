@@ -5,12 +5,12 @@
 
   <tr>
     <td> Marissa Hartman</td>
-    <td><img src = "flower.jpg" width = "200px"></td>
+    <td><img src = "photos/flower.jpg" width = "200px"></td>
     <td>I am a student at Miramar College and am studying computer science.</td>
   </tr>
   <tr>
     <td> Alanna Burke</td>
-    <td><img src = "alanna-burke-headshot-med.png" width = "200px"></td>
+    <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
     <td>I'm a developer, I love animals and teaching people to code!</td>
 
   </tr>
@@ -70,7 +70,7 @@
 
   <tr>
     <td>Sunny Datko</td>
-    <td><img src = "photos/sunny.png"></td>
+    <td><img src = "photos/sunny.jpg"></td>
     <td>Sometime I even know what I'm doing!</td>
   </tr>
 
