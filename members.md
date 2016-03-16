@@ -50,6 +50,13 @@
 
   </tr>
 
+    <tr>
+    <td> Felisha Jaramillo </td>
+    <td><img src = "photos/tower.png" width = "200px"></td>
+    <td>I'm a web developer, I love animals and teaching people to code!</td>
+
+  </tr>
+
   <tr>
     <td> Alyssa Salindong</td>
     <td><img src = "Images/alyssa.jpg" width = "200px"></td>
