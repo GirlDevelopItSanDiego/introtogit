@@ -7,7 +7,12 @@
     <td>I'm a web developer, I love animals and teaching people to code!</td>
 
   </tr>
+<tr>
+    <td> Kimbra Brookstein</td>
+    <td><img src = "photos/pic.jpg" width = "200px"></td>
+    <td>I'm a Marketing Manager</td>
 
+  </tr>
 
 
 </table>
