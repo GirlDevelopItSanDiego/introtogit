@@ -45,8 +45,13 @@
     <td><img src = "Images/alyssa.jpg" width = "200px"></td>
     <td>I'm a recruiter at Qualcomm</td>
 
+
   </tr>
-
-
+<tr>
+    <td> I'm Bulgan </td>
+    <td><img src = "photos/love1.jpg" width = "200px"></td>
+    <td>I'm a web developer student at Girl Develop It!</td>
+    <td>I'm currently taking a Github class.</td>
+</tr>
 
 </table>
