@@ -11,7 +11,12 @@
     <td><img src="photos/LindsayProfilePic2.jpg" width = "200px"></td>
     <td>I love cookies, computers and puppies!</td>
   </tr>
+<tr>
+    <td> Kimbra Brookstein</td>
+    <td><img src = "photos/pic.jpg" width = "200px"></td>
+    <td>I'm a Marketing Manager</td>
 
+  </tr>
 
 
 </table>
