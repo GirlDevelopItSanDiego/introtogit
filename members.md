@@ -22,7 +22,7 @@
 
 <tr>
     <td> Andreea Trufasu</td>
-    <td><img src = "photos/barcelona_beach.jpg" width = "200px"></td>
+    <td><img src = "photos/barcelona_beach.JPG" width = "200px"></td>
     <td>I'm a small business owner, and I love swimmming, traveling, my friends and family</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
 
     <tr>
     <td> Felisha Jaramillo </td>
-    <td><img src = "photos/tower.png" width = "200px"></td>
+    <td><img src = "photos/Tower.png" width = "200px"></td>
     <td>I'm a web developer, I love animals and teaching people to code!</td>
   </tr>
 
