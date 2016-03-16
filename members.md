@@ -26,6 +26,10 @@
     <td><img src = "photos/barcelona_beach.jpg" width = "200px"></td>
     <td>I'm a small business owner, and I love swimmming, traveling, my friends and family</td>
   </tr>
+  <tr>
+    <td> Courtney Lach</td>
+    <td><img src = "photos/courtney.jpg" width = "200px"></td>
+    <td>Hey I'm courtney, this is my first git class!</td>
 
 <tr>
     <td> Briana Reid</td>
