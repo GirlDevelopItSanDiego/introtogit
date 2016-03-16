@@ -18,7 +18,7 @@
   <tr>
     <td>Lindsay Hood</td>
     <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
-    <td>I'm a web developer, I love animals and teaching people to code!</td>
+    <td>I'm a web developer, I love animals (especially my cat and dog) and teaching people to code!</td>
   </tr>
 
 <tr>
