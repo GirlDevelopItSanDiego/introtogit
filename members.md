@@ -29,7 +29,7 @@
 
 <tr>
     <td> Briana Reid</td>
-    <td><img src = "12038643_440128786179893_2069974111594427203_o.jpg" width = "200px"></td>
+    <td><img src = "photos/12038643_440128786179893_2069974111594427203_o.jpg" width = "200px"></td>
     <td>I'm a college student who love my puppy Zoey, and is currently learning spanish. </td>
   </tr>
 
@@ -48,7 +48,7 @@
 
   <tr>
     <td> Alyssa Salindong</td>
-    <td><img src = "Images/alyssa.jpg" width = "200px"></td>
+    <td><img src = "photos/alyssa.jpg" width = "200px"></td>
     <td>I'm a recruiter at Qualcomm</td>
   </tr>
 
