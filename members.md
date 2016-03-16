@@ -8,6 +8,11 @@
 
   </tr>
 
+  <tr>
+    <td> Shana Moore</td>
+    <td><img src = "photos/shana.jpg" width = "200px"></td>
+    <td> Fullstack web developer experienced in front end back-end web development, object-oriented programming, and relational database management. I love Youtube, food and dogs. </td>
 
+  </tr>
 
 </table>
