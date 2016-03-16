@@ -2,9 +2,16 @@
 
 <table>
   <tr>
-    <td> Alanna Burke</td>
-    <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
+	<td> Alanna Burke</td>
+	    <td><img src = "photos/alanna-burke-headshot-med.png" width = "200px"></td>
     <td>I'm a web developer, I love animals and teaching people to code!</td>
+
+  </tr>
+
+  <tr>
+	<td> Chris </td>
+	    <td><img src = "photos/Chris.jpg" width = "200px"></td>
+    <td>I'm an old school programmer and I love horses !</td>
 
   </tr>
 
