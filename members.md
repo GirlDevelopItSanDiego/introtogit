@@ -77,7 +77,7 @@
   <tr>
 
     <td> Veronica Morones</td>
-    <td><img src = "images/kitten-3.jpg" width = "200px"></td>
+    <td><img src = "photos/kitten-3.jpg" width = "200px"></td>
     <td>I like kittens and running.</td>
   </tr>
 
@@ -90,7 +90,7 @@
 
   <tr>
     <td> Alyssa Salindong</td>
-    <td><img src = "Images/alyssa.jpg" width = "200px"></td>
+    <td><img src = "photos/alyssa.jpg" width = "200px"></td>
     <td>I'm a recruiter at Qualcomm</td>
   </tr>
 
